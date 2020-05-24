@@ -1,5 +1,5 @@
 # ImageClassification-13KenyanFood-PyTorch
-### Image Classification Task which is part of the Deep Learning with PyTorch OpenCV course.
+### [Image Classification Task which is part of the Deep Learning with PyTorch OpenCV course.](https://www.kaggle.com/c/pytorch-opencv-course-classification)
 The [dataset](https://www.kaggle.com/c/pytorch-opencv-course-classification/data) consists of 8,174 images in 13 Kenyan food type classes from which the 20% was used for validation.
 
 The input image size is 224 by 224 pixels and I have used several [Data Augmentation](https://pytorch.org/docs/stable/torchvision/transforms.html) techniques, such as Random Vertical/Horizontal Rotation and Color Jitter (brightness, contrast).
